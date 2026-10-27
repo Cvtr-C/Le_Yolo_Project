@@ -1,0 +1,17 @@
+path: /home/carlos_vitor/Desktop/DET_GC10/datasets/gc10_det
+train: images/train
+val: images/val
+
+nc: 10
+
+names:
+  0: "1_chongkong"
+  1: "2_hanfeng"
+  2: "3_yueyawan"
+  3: "4_shuiban"
+  4: "5_youban"
+  5: "6_siban"
+  6: "7_yiwu"
+  7: "8_yahen"
+  8: "9_zhehen"
+  9: "10_yaozhe"
